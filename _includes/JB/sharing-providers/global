@@ -1,0 +1,36 @@
+<!-- G+ +1 -->
+<div style="display: inline; width: 3px;" class="g-plusone" data-annotation="bubble" data-width="30"></div>
+
+<!-- YN Submit -->
+<a href="http://news.ycombinator.com/submit" class="hn-share-button">Vote on HN</a>
+
+<!-- Facebook Share -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId={{ site.JB.sharing.facebook.appid }}";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<fb:share-button style="float: left; width: 110px;" type="button_count"></fb:share-button>
+
+<!-- Facebook Like -->
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="{{ site.JB.sharing.facebook.layout }}" data-width="{{ site.JB.sharing.facebook.width }}" data-show-faces="{{ site.JB.sharing.facebook.faces }}" data-font="{{ site.JB.sharing.facebook.font }}"></div>
+<script>
+(function(doc, script) {
+    // Async Social Buttons
+    var js, 
+        fjs = doc.getElementsByTagName(script)[0],
+        add = function(url, id) {
+            if (doc.getElementById(id)) {return;}
+            js = doc.createElement(script);
+            js.src = url;
+            id && (js.id = id);
+            fjs.parentNode.insertBefore(js, fjs);
+        };
+    // Facebook SDK
+    add('//connect.facebook.net/en_US/all.js#xfbml=1&appId={{ site.JB.sharing.facebook.appid }}', 'facebook-jssdk');
+}(document, 'script'));
+</script>
