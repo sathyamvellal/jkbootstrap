@@ -1,0 +1,11 @@
+
+http://username.com/pages.html
+http://username.com/rss.xml
+http://username.com/atom.xml
+http://username.com/index.html
+http://username.com/sitemap.txt
+http://username.com/about.html
+http://username.com/blog.html
+http://username.com/contact.html
+
+http://username.com/how%20to/1970/01/01/how-to.html

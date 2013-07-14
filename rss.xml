@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Website Title</title>
+        <description>Website Title - FirstName LastName</description>
+        <link>http://username.com</link>
+        <link>http://username.com</link>
+        <lastBuildDate>2013-07-14T12:52:06+05:30</lastBuildDate>
+        <pubDate>2013-07-14T12:52:06+05:30</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>How To</title>
+                <description>&lt;h4 id=&#39;a_sample_post&#39;&gt;A Sample Post&lt;/h4&gt;
+
+&lt;p&gt;Purus lectus, mattis dignissim. Congue. Fusce id pellentesque nisl egestas ac, bibendum commodo. Vehicula dictum nibh elit fusce lacus posuere consequat eros eni. Donec fusce proin hac. Felis sapien rutrum odio, duis diam eget sagittis. Felis, convallis non, velit vulputate lorem. Quam ut class auctor velit, at nibh mollis. Sociis, ve orci. Curabitur. Odio montes id nostra facilisis.&lt;br /&gt;Parturient litora, nisl mauris nascetur arcu, nibh interdum dolor natoque purus arcu. Felis justo tortor nunc, rhoncus mauris, per.&lt;/p&gt;</description>
+                <link>http://username.com/how%20to/1970/01/01/how-to.html</link>
+                <guid>http://username.com/how%20to/1970/01/01/how-to</guid>
+                <pubDate>1970-01-01T00:00:00+05:30</pubDate>
+        </item>
+
+
+</channel>
+</rss>
